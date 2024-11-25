@@ -1,5 +1,5 @@
 import './css/Start.css'
-import { useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import gsap from 'gsap';
 import { ScrollToPlugin } from 'gsap/ScrollToPlugin';
 import TypeIt from "typeit";
@@ -10,6 +10,7 @@ gsap.registerPlugin(ScrollToPlugin);
 
 function Start() {
 	let {navigation} = homeData;
+	const [muted, setMuted] = useState(true);
 
 	useEffect(() => {
 		let menuList = document.querySelectorAll(".pc_menu > ul > li");
@@ -176,7 +177,7 @@ function Start() {
 				</div>
 			</header>
 			<main>
-				<video src="/video/intro2.mp4" muted={false} autoPlay loop playsInline></video>
+				<video src="/video/intro2.mp4" muted={muted ? true : false} autoPlay loop playsInline></video>
 				<div className="main_text">
 					<h2 id="output">FRONTEND DEVELOPER</h2>
 					<p id="sub"></p>

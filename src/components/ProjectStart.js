@@ -1,6 +1,6 @@
 import './css/ProjectStyle.css';
 import { Link } from "react-router-dom";
-import { useEffect } from 'react';
+import { useEffect, useState } from 'react';
 import gsap from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
 
@@ -10,6 +10,7 @@ gsap.registerPlugin(ScrollTrigger);
 
 function ProjectStart() {
 	let {navigation} = projectData;
+	let [muted, setMuted] = useState(true);
 
 	useEffect(() => {
 		let menuList = document.querySelectorAll(".pc_menu > ul > li");
@@ -106,7 +107,7 @@ function ProjectStart() {
 				</div>
 			</header>
 			<main>
-				<video src="./video/intro2.mp4" muted={false} autoPlay loop playsInline></video>
+				<video src="./video/intro2.mp4" muted={muted ? true : false} autoPlay loop playsInline></video>
 			</main>
 		</div>
 	);
