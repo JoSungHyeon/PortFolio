@@ -47,6 +47,7 @@ function ProjectStart() {
 
 		let moOpen = document.querySelector(".mobile_menu .mobile_open");
 		let moMenu = document.querySelector(".mobile_menu ul");
+		let moMenuList = document.querySelectorAll(".mobile_menu > ul > li");
 		let logo = document.querySelector(".logo");
 
 		sectionList.forEach(function(item, i) {
@@ -66,7 +67,7 @@ function ProjectStart() {
 			}
 		});
 
-		menuList.forEach(function(item, i) {
+		moMenuList.forEach(function(item, i) {
 			item.addEventListener("click", function(e) {
 				e.preventDefault();
 				if(i === 0) {
@@ -118,7 +119,7 @@ function Navigation(props) {
 		<ul>
 			{
 				navigation.map((d, i) => 
-					<li key={i}><a href={d.href}>{d.text}</a></li>
+					<li key={i}><a href={d.href}><p>{d.text}</p></a></li>
 				)
 			}
 		</ul>
