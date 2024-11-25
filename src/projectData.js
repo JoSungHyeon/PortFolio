@@ -1,4 +1,5 @@
 const projectData = {
+	mainVideo: ["/video/intro2.mp4"],
 	navigation: [
 		{ href: "#work", text: "Project" },
 		{ href: "#codepen", text: "Open Source" },

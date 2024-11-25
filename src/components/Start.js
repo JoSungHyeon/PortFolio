@@ -1,5 +1,5 @@
 import './css/Start.css'
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useRef } from 'react';
 import gsap from 'gsap';
 import { ScrollToPlugin } from 'gsap/ScrollToPlugin';
 import TypeIt from "typeit";
@@ -9,8 +9,7 @@ import homeData from '../homeData';
 gsap.registerPlugin(ScrollToPlugin);
 
 function Start() {
-	let {navigation} = homeData;
-	const [muted, setMuted] = useState(true);
+	let {navigation, mainVideo} = homeData;
 
 	useEffect(() => {
 		let menuList = document.querySelectorAll(".pc_menu > ul > li");
@@ -154,6 +153,13 @@ function Start() {
 			.type("<br><span>JoSungHyeon</span>")
 			.go();
 		}, 2000);
+
+		let video = document.querySelector("#mainVideo");
+
+		// video.addEventListener("loadeddata", function() {
+		// 	video.setAttribute("muted", true);
+		// })
+		
 	});
 	
 	return (
@@ -177,7 +183,7 @@ function Start() {
 				</div>
 			</header>
 			<main>
-				<video src="/video/intro2.mp4" muted={muted ? true : false} autoPlay loop playsInline></video>
+				<video src={mainVideo} id='mainVideo' muted autoPlay loop playsInline poster='/img/video_poster.png'></video>
 				<div className="main_text">
 					<h2 id="output">FRONTEND DEVELOPER</h2>
 					<p id="sub"></p>

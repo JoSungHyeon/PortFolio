@@ -1,4 +1,5 @@
 const homeData = {
+	mainVideo: ["/video/intro2.mp4"],
 	navigation: [
 		{ href: "#start", text: "Intro" },
 		{ href: "#skill", text: "Skills" },
