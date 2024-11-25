@@ -84,6 +84,8 @@ function ProjectStart() {
 			});
 		});
 
+		let video = document.querySelector("#mainVideo");
+
 		video.addEventListener("loadeddata", function() {
 			video.setAttribute("muted", true);
 		})
@@ -110,7 +112,7 @@ function ProjectStart() {
 				</div>
 			</header>
 			<main>
-				<video src={mainVideo} muted autoPlay loop playsInline poster='/img/video_poster.png'></video>
+				<video src={mainVideo} id='mainVideo' muted autoPlay loop playsInline poster='/img/video_poster.png'></video>
 			</main>
 		</div>
 	);
