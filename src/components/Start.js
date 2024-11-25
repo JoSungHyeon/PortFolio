@@ -156,9 +156,9 @@ function Start() {
 
 		let video = document.querySelector("#mainVideo");
 
-		// video.addEventListener("loadeddata", function() {
-		// 	video.setAttribute("muted", true);
-		// })
+		video.addEventListener("loadeddata", function() {
+			video.setAttribute("muted", true);
+		})
 		
 	});
 	

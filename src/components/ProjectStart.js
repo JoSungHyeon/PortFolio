@@ -83,6 +83,10 @@ function ProjectStart() {
 				}
 			});
 		});
+
+		video.addEventListener("loadeddata", function() {
+			video.setAttribute("muted", true);
+		})
 	});
 
 	return (
