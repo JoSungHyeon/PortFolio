@@ -176,7 +176,7 @@ function Start() {
 				</div>
 			</header>
 			<main>
-				<video src="/video/intro2.mp4" muted={isMuted ? true : false} autoPlay loop playsInline></video>
+				<video src="/video/intro2.mp4" muted={false} autoPlay loop playsInline></video>
 				<div className="main_text">
 					<h2 id="output">FRONTEND DEVELOPER</h2>
 					<p id="sub"></p>

@@ -106,7 +106,7 @@ function ProjectStart() {
 				</div>
 			</header>
 			<main>
-				<video src="./video/intro2.mp4" muted={isMuted ? true : false} autoPlay loop playsInline></video>
+				<video src="./video/intro2.mp4" muted={false} autoPlay loop playsInline></video>
 			</main>
 		</div>
 	);
