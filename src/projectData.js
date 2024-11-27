@@ -21,7 +21,7 @@ const projectData = {
 				"Vite",
 			],
 			desc: "달빛은 무지개 위에서 피아노를 치고, 나무는 공중에서 춤을 추며, 고양이는 우주를 여행하며 사탕을 먹고 있어요. 바람은 산책을 하면서 별들을 속삭이고, 구름은 바다 속에 숨은 보물을 찾고 있답니다.달빛은 무지개 위에서 피아노를 치고, 나무는 공중에서 춤을 추며, 고양이는 우주를 여행하며 사탕을 먹고 있어요. 바람은 산책을 하면서 별들을 속삭이고, 구름은 바다 속에 숨은 보물을 찾고 있답니다.",
-			siteLink: "",
+			siteLink: "https://sh-emotion-diary.vercel.app/",
 			codeLink: ""
 
 		},
@@ -40,7 +40,7 @@ const projectData = {
 				"Vite",
 			],
 			desc: "달빛은 무지개 위에서 피아노를 치고, 나무는 공중에서 춤을 추며, 고양이는 우주를 여행하며 사탕을 먹고 있어요. 바람은 산책을 하면서 별들을 속삭이고, 구름은 바다 속에 숨은 보물을 찾고 있답니다.달빛은 무지개 위에서 피아노를 치고, 나무는 공중에서 춤을 추며, 고양이는 우주를 여행하며 사탕을 먹고 있어요. 바람은 산책을 하면서 별들을 속삭이고, 구름은 바다 속에 숨은 보물을 찾고 있답니다.",
-			siteLink: "",
+			siteLink: "https://sh-board-shop.vercel.app/",
 			codeLink: ""
 
 		},
@@ -57,7 +57,7 @@ const projectData = {
 				"GSAP"
 			],
 			desc: "22. 달빛은 무지개 위에서 피아노를 치고, 나무는 공중에서 춤을 추며, 고양이는 우주를 여행하며 사탕을 먹고 있어요. 바람은 산책을 하면서 별들을 속삭이고, 구름은 바다 속에 숨은 보물을 찾고 있답니다.달빛은 무지개 위에서 피아노를 치고, 나무는 공중에서 춤을 추며, 고양이는 우주를 여행하며 사탕을 먹고 있어요. 바람은 산책을 하면서 별들을 속삭이고, 구름은 바다 속에 숨은 보물을 찾고 있답니다.",
-			siteLink: "",
+			siteLink: "https://sh-classbox.vercel.app/",
 			codeLink: ""
 
 		},
@@ -72,14 +72,14 @@ const projectData = {
 				"PWA"
 			],
 			desc: "22. 달빛은 무지개 위에서 피아노를 치고, 나무는 공중에서 춤을 추며, 고양이는 우주를 여행하며 사탕을 먹고 있어요. 바람은 산책을 하면서 별들을 속삭이고, 구름은 바다 속에 숨은 보물을 찾고 있답니다.달빛은 무지개 위에서 피아노를 치고, 나무는 공중에서 춤을 추며, 고양이는 우주를 여행하며 사탕을 먹고 있어요. 바람은 산책을 하면서 별들을 속삭이고, 구름은 바다 속에 숨은 보물을 찾고 있답니다.",
-			siteLink: "",
+			siteLink: "https://josunghyeon.github.io/o-kichen-pwa/",
 			codeLink: ""
 
 		}
 	],
 	codepen: [
 		{
-			src: "code1",
+			src: "open1",
 			title: "Name1",
 			skill: [
 				"HTML",
@@ -87,10 +87,10 @@ const projectData = {
 				"JavaScript"
 			],
 			desc: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nobis error ipsa aliquid optio dolor mollitia, autem incidunt quisquam, ipsum qui alias magnam architecto facere minus itaque labore molestias nihil aspernatur.",
-			link: "https://www.naver.com"
+			link: "https://sh-open-1.vercel.app/"
 		},
 		{
-			src: "code1",
+			src: "open1",
 			title: "Name2",
 			skill: [
 				"HTML",

@@ -50,7 +50,7 @@ function SourceWrapper(props) {
 						<SwiperSlide key={i} className="swiper-slide">
 							<div className="slide_inner">
 								{/* <div className="source_img">
-									<img src={`./img/codepen/${d.src}.png`} alt={d.src} />
+									<img src={`./img/opensource/${d.src}.png`} alt={d.src} />
 								</div> */}
 								<div className="source_title">
 									<h3>{d.title}</h3>

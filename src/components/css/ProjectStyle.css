@@ -416,8 +416,9 @@
 	gap: 20px;
 	justify-content: center;
 	align-items: center;
-	padding: 5%;
+	padding: 30px;
 	border-radius: 4px;
+	width: 100%;
 }
 #project #codepen .swiper-slide .slide_inner img {
 	display: block;
