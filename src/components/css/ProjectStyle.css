@@ -308,6 +308,7 @@
 
 #project #work .port_wrapper .port_wrap .port_info .port_skill {
 	display: flex;
+	flex-wrap: wrap;
 	gap: 10px;
 }
 
