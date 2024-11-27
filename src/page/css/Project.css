@@ -17,7 +17,8 @@ img {
 	vertical-align: top;
 	border: none;
 }
-html, body {
+
+body {
 	line-height: 1;
 	font-family: "Roboto", "Noto Sans KR", sans-serif;
 	font-size: 1em;
