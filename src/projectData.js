@@ -84,7 +84,8 @@ const projectData = {
 			skill: [
 				"HTML",
 				"CSS",
-				"JavaScript"
+				"JavaScript",
+				"React"
 			],
 			desc: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nobis error ipsa aliquid optio dolor mollitia, autem incidunt quisquam, ipsum qui alias magnam architecto facere minus itaque labore molestias nihil aspernatur.",
 			link: "https://sh-open-1.vercel.app/"
@@ -95,7 +96,8 @@ const projectData = {
 			skill: [
 				"HTML",
 				"CSS",
-				"JavaScript"
+				"JavaScript",
+				"React"
 			],
 			desc: "2Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nobis error ipsa aliquid optio dolor mollitia, autem incidunt quisquam, ipsum qui alias magnam architecto facere minus itaque labore molestias nihil aspernatur.",
 			link: "https://www.naver.com"
@@ -106,7 +108,8 @@ const projectData = {
 			skill: [
 				"HTML",
 				"CSS",
-				"JavaScript"
+				"JavaScript",
+				"React"
 			],
 			desc: "2Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nobis error ipsa aliquid optio dolor mollitia, autem incidunt quisquam, ipsum qui alias magnam architecto facere minus itaque labore molestias nihil aspernatur.",
 			link: "https://www.naver.com"
@@ -117,7 +120,8 @@ const projectData = {
 			skill: [
 				"HTML",
 				"CSS",
-				"JavaScript"
+				"JavaScript",
+				"React"
 			],
 			desc: "2Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nobis error ipsa aliquid optio dolor mollitia, autem incidunt quisquam, ipsum qui alias magnam architecto facere minus itaque labore molestias nihil aspernatur.",
 			link: "https://www.naver.com"
@@ -128,7 +132,8 @@ const projectData = {
 			skill: [
 				"HTML",
 				"CSS",
-				"JavaScript"
+				"JavaScript",
+				"React"
 			],
 			desc: "2Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nobis error ipsa aliquid optio dolor mollitia, autem incidunt quisquam, ipsum qui alias magnam architecto facere minus itaque labore molestias nihil aspernatur.",
 			link: "https://www.naver.com"
@@ -139,7 +144,8 @@ const projectData = {
 			skill: [
 				"HTML",
 				"CSS",
-				"JavaScript"
+				"JavaScript",
+				"React"
 			],
 			desc: "2Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nobis error ipsa aliquid optio dolor mollitia, autem incidunt quisquam, ipsum qui alias magnam architecto facere minus itaque labore molestias nihil aspernatur.",
 			link: "https://www.naver.com"
@@ -150,7 +156,8 @@ const projectData = {
 			skill: [
 				"HTML",
 				"CSS",
-				"JavaScript"
+				"JavaScript",
+				"React"
 			],
 			desc: "2Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nobis error ipsa aliquid optio dolor mollitia, autem incidunt quisquam, ipsum qui alias magnam architecto facere minus itaque labore molestias nihil aspernatur.",
 			link: "https://www.naver.com"
@@ -161,7 +168,8 @@ const projectData = {
 			skill: [
 				"HTML",
 				"CSS",
-				"JavaScript"
+				"JavaScript",
+				"React"
 			],
 			desc: "2Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nobis error ipsa aliquid optio dolor mollitia, autem incidunt quisquam, ipsum qui alias magnam architecto facere minus itaque labore molestias nihil aspernatur.",
 			link: "https://www.naver.com"
@@ -172,7 +180,8 @@ const projectData = {
 			skill: [
 				"HTML",
 				"CSS",
-				"JavaScript"
+				"JavaScript",
+				"React"
 			],
 			desc: "2Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nobis error ipsa aliquid optio dolor mollitia, autem incidunt quisquam, ipsum qui alias magnam architecto facere minus itaque labore molestias nihil aspernatur.",
 			link: "https://www.naver.com"
@@ -183,7 +192,8 @@ const projectData = {
 			skill: [
 				"HTML",
 				"CSS",
-				"JavaScript"
+				"JavaScript",
+				"React"
 			],
 			desc: "2Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nobis error ipsa aliquid optio dolor mollitia, autem incidunt quisquam, ipsum qui alias magnam architecto facere minus itaque labore molestias nihil aspernatur.",
 			link: "https://www.naver.com"
