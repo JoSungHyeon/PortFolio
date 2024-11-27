@@ -90,7 +90,7 @@ const projectData = {
 			link: "https://sh-open-1.vercel.app/"
 		},
 		{
-			src: "open1",
+			src: "open2",
 			title: "Name2",
 			skill: [
 				"HTML",
