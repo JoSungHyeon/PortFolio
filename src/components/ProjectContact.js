@@ -65,7 +65,7 @@ function ContactItem(props) {
 		<div className="contact_wrap">
 			{
 				contact.map((d, i) =>
-					<a key={i} href={d.link} className="contact_item">
+					<a key={i} href={d.link} className="contact_item" target='porfolio'>
 						<div className="item_img">
 							<img src={`img/${d.name}.png`} alt={d.name} />
 						</div>
