@@ -31,11 +31,11 @@ function Home() {
 
 		lenisAnimation();
 		
-		gsap.to(window, { scrollTo: 0, duration: 0.2 });
+		gsap.to(window, { scrollTo: 0, duration: 0.3 });
 	});
 	
   	return (
-  	  	<div id='home'> {/* 헤더 컴포넌트 빼기 */}
+  	  	<div id='home'>
 			<Header />
 			<Start /> 
 			<Main />

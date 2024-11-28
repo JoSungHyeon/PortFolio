@@ -302,6 +302,13 @@
 	line-height: 1.5;
 }
 
+#project #work .port_wrapper .port_wrap p {
+	line-height: 1.8;
+	font-size: 1em;
+	font-weight: 300;
+	word-break: keep-all;
+}
+
 #project #work .port_wrapper .port_wrap h3 {
 	font-size: 2em;
 }
@@ -416,7 +423,7 @@
 	flex-direction: column;
 	gap: 20px;
 	justify-content: center;
-	align-items: center;
+	align-items: flex-start;
 	padding: 30px;
 	border-radius: 4px;
 	width: 100%;
@@ -430,13 +437,14 @@
 }
 
 #project #codepen .swiper-slide .slide_inner .source_title {
+	text-align: left;
 	color: #fff;
 }
 
 #project #codepen .swiper-slide .slide_inner .source_skill {
 	display: flex;
+	justify-content: flex-start;
 	gap: 10px;
-	justify-content: center;
 	width: 100%;
 	flex-wrap: wrap;
 }
@@ -444,33 +452,51 @@
 #project #codepen .swiper-slide .slide_inner .source_skill span {
 	display: inline-block;
     border-radius: 12px;
-    line-height: 18px;
-    padding: 0 16px;
+    line-height: 22px;
     font-size: 0.7em;
     color: #418FDE;
-    background-color: rgba(65, 143, 222, 0.1);
 }
 
-#project #codepen .swiper-slide .slide_inner .source_desc {
-	font-size: 0.875em;
+#project #codepen .swiper-slide .slide_inner .source_desc p {
+	line-height: 1.6;
+	text-align: left;
+	font-size: 0.8em;
+	font-weight: 100;
 	color: #fff;
 }
 
+#project #codepen .swiper-slide .slide_inner .source_btn {
+	display: flex;
+	gap: 10px;
+}
+
 #project #codepen .swiper-slide .slide_inner .source_btn a {
-	border: 2px solid #418FDE;
+	border: 1px solid #418FDE;
 	display: block;
-	line-height: 24px;
-	border-radius: 12px;
+	line-height: 22px;
+	border-radius: 30px;
 	transition: all 0.3s;
-	padding: 0 40px;
+	padding: 0 20px;
 	text-align: center;
+	font-size: 0.7em;
 	background-color: transparent;
 	color: #418FDE;
 }
 
+#project #codepen .swiper-slide .slide_inner .source_btn a.site {
+	background-color: #418FDE;
+    color: #111;
+    /* border: 2px solid #418FDE; */
+}
+
 #project #codepen .swiper-slide .slide_inner .source_btn a:hover {
 	color: #fff;
-	border: 2px solid #fff;
+	border: 1px solid #fff;
+}
+
+#project #codepen .swiper-slide .slide_inner .source_btn a.site:hover {
+	color: #111;
+	background-color: #fff;
 }
 
 #project #codepen .swiper-horizontal>.swiper-scrollbar, .swiper-scrollbar.swiper-scrollbar-horizontal {
@@ -512,7 +538,7 @@
 	font-size: 4em;
     font-weight: 600;
     letter-spacing: 2px;
-	text-align: center;
+	text-align: left;
 	color: #111;
 	text-shadow:
 	 -1px 0 rgba(226, 226, 224, 0.5),
@@ -574,7 +600,7 @@
 	}
 
 	#project #codepen .swiper-slide .slide_inner .source_skill {
-		display: none;
+		/* display: none; */
 	}
 
 	#project #contact .section_inner {

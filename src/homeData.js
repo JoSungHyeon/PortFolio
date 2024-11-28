@@ -97,18 +97,18 @@ const homeData = {
 	contact: [
 		{
 			name: "git",
-			link: "https://www.naver.com"
+			link: "https://github.com/JoSungHyeon"
 		},
 		{
 			name: "notion",
-			link: "https://www.naver.com"
+			link: "https://stupendous-saver-a6c.notion.site/JoSungHyeon-11bd2ba5cf6080d693eac45f4b3b0d0c?pvs=74"
 		},
 		{
 			name: "kakao",
-			link: "https://www.naver.com"
+			link: "https://open.kakao.com/o/sXyOvo2g"
 		},
 		{	name: "codepen",
-			link: "https://www.naver.com"
+			link: "https://codepen.io/JoSungHyeon/pens/"
 
 		}
 	]

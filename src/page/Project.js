@@ -34,7 +34,7 @@ function Project() {
 
 		lenisAnimation();
 		
-		gsap.to(window, { scrollTo: 0, duration: 0.2 });
+		gsap.to(window, { scrollTo: 0, duration: 0.3 });
 
 		return(() => {
 			document.body.classList.remove("dark")
