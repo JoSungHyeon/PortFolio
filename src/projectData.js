@@ -78,124 +78,134 @@ const projectData = {
 	],
 	codepen: [
 		{
-			title: "Name1",
+			title: "Table",
 			skill: [
 				"HTML",
 				"CSS",
 				"JavaScript",
-				"React"
+				"React",
+				"Table"
 			],
-			desc: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nobis error ipsa aliquid optio dolor mollitia, autem incidunt quisquam, ipsum qui alias magnam architecto facere minus itaque labore molestias nihil aspernatur.",
+			desc: ["form 태그를 사용하여 검색칸을 개발하였습니다.", "table 태그를 활용해 게시판 UI를 제작하였습니다.", "기기의 너비에 따라 '제목'란의 크기만 줄어들도록 개발하였습니다."],
 			siteLink: "https://sh-open-1.vercel.app/",
-			gitLink: ""
+			gitLink: "https://github.com/JoSungHyeon/openSource"
 		},
 		{
-			title: "Name2",
+			title: "Loading",
 			skill: [
 				"HTML",
 				"CSS",
 				"JavaScript",
-				"React"
+				"React",
+				"Fetch"
 			],
-			desc: "2Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nobis error ipsa aliquid optio dolor mollitia, autem incidunt quisquam, ipsum qui alias magnam architecto facere minus itaque labore molestias nihil aspernatur.",
-			siteLink: "https://www.naver.com",
-			gitLink: ""
+			desc: ["fetch 메소드를 활용해 데이터를 입력하였습니다.", "useState를 사용해 로딩을 구현하였습니다.", "setTimeout를 이용해 로딩시간을 지정하였습니다."],
+			siteLink: "https://sh-open-2.vercel.app/",
+			gitLink: "https://github.com/JoSungHyeon/openSource"
 		},
 		{
-			title: "Name2",
+			title: "Mobile GNB",
 			skill: [
 				"HTML",
 				"CSS",
 				"JavaScript",
-				"React"
+				"React",
+				"Resize"
 			],
-			desc: "2Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nobis error ipsa aliquid optio dolor mollitia, autem incidunt quisquam, ipsum qui alias magnam architecto facere minus itaque labore molestias nihil aspernatur.",
-			siteLink: "https://www.naver.com",
-			gitLink: ""
+			desc: ["props로 데이터를 전달하였습니다.", "resize 메소드를 이용해 디바이스의 너비를 활용하였습니다.", "map 메소드를 활용해 돔을 구현하였습니다."],
+			siteLink: "https://sh-open-3.vercel.app/",
+			gitLink: "https://github.com/JoSungHyeon/openSource"
 		},
 		{
-			title: "Name2",
+			title: "ITEM LIST",
 			skill: [
 				"HTML",
 				"CSS",
 				"JavaScript",
-				"React"
+				"React",
+				"useState"
 			],
-			desc: "2Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nobis error ipsa aliquid optio dolor mollitia, autem incidunt quisquam, ipsum qui alias magnam architecto facere minus itaque labore molestias nihil aspernatur.",
-			siteLink: "https://www.naver.com",
-			gitLink: ""
+			desc: ["useState를 활용하여 데이터의 순번을 스테이트화 하였습니다.", "map 메소드 내부의 조건식을 활용하였습니다.", "버튼 클릭시마다 해당 버튼에 해당하는 아이템만 보여지게 개발하였습니다."],
+			siteLink: "https://sh-open-4.vercel.app/",
+			gitLink: "https://github.com/JoSungHyeon/openSource"
 		},
 		{
-			title: "Name2",
+			title: "Image Slide",
 			skill: [
 				"HTML",
 				"CSS",
 				"JavaScript",
-				"React"
+				"React",
+				"Swiper"
 			],
-			desc: "2Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nobis error ipsa aliquid optio dolor mollitia, autem incidunt quisquam, ipsum qui alias magnam architecto facere minus itaque labore molestias nihil aspernatur.",
-			siteLink: "https://www.naver.com",
-			gitLink: ""
+			desc: ["Swiper 라이브러리를 활용해 이미지 슬라이드를 구현하였습니다.", "Swiper 라이브러리가 제공하는 기능을 활용해 이미지의 번호를 개발하였습니다.", "map 메소드를 활용해 슬라이드를 구현하였습니다."],
+			siteLink: "https://sh-open-5.vercel.app/",
+			gitLink: "https://github.com/JoSungHyeon/openSource"
 		},
 		{
-			title: "Name2",
+			title: "Video Player",
 			skill: [
 				"HTML",
 				"CSS",
 				"JavaScript",
-				"React"
+				"React",
+				"GSAP"
 			],
-			desc: "2Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nobis error ipsa aliquid optio dolor mollitia, autem incidunt quisquam, ipsum qui alias magnam architecto facere minus itaque labore molestias nihil aspernatur.",
-			siteLink: "https://www.naver.com",
-			gitLink: ""
+			desc: ["video 태그를 활용하였습니다.", "GSAP 라이브러리를 활용하여 버튼의 애니메이션을 제어하였습니다."],
+			siteLink: "https://sh-open-6.vercel.app/",
+			gitLink: "https://github.com/JoSungHyeon/openSource"
 		},
 		{
-			title: "Name2",
+			title: "Multi Video",
 			skill: [
 				"HTML",
 				"CSS",
 				"JavaScript",
-				"React"
+				"React",
+				"Map"
 			],
-			desc: "2Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nobis error ipsa aliquid optio dolor mollitia, autem incidunt quisquam, ipsum qui alias magnam architecto facere minus itaque labore molestias nihil aspernatur.",
-			siteLink: "https://www.naver.com",
-			gitLink: ""
+			desc: ["props를 활용해 비디오의 목록을 불러왔습니다.", "map 메소드를 활용해 비디오의 목록만큼 돔을 구현하였습니다.", "버튼이 클릭되면 비디오가 재생되게끔 개발하였습니다."],
+			siteLink: "https://sh-open-7.vercel.app/",
+			gitLink: "https://github.com/JoSungHyeon/openSource"
 		},
 		{
-			title: "Name2",
+			title: "GNB (Every)",
 			skill: [
 				"HTML",
 				"CSS",
 				"JavaScript",
-				"React"
+				"React",
+				"Fetch"
 			],
-			desc: "2Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nobis error ipsa aliquid optio dolor mollitia, autem incidunt quisquam, ipsum qui alias magnam architecto facere minus itaque labore molestias nihil aspernatur.",
-			siteLink: "https://www.naver.com",
-			gitLink: ""
+			desc: ["fetch 메소드를 활용해 데이터를 입력하였습니다.", "이중 map 메소드를 사용하여 서브메뉴를 구현하였습니다."],
+			siteLink: "https://sh-open-9.vercel.app/",
+			gitLink: "https://github.com/JoSungHyeon/openSource"
 		},
 		{
-			title: "Name2",
+			title: "GNB (Single)",
 			skill: [
 				"HTML",
 				"CSS",
 				"JavaScript",
-				"React"
+				"React",
+				"Axios"
 			],
-			desc: "2Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nobis error ipsa aliquid optio dolor mollitia, autem incidunt quisquam, ipsum qui alias magnam architecto facere minus itaque labore molestias nihil aspernatur.",
-			siteLink: "https://www.naver.com",
-			gitLink: ""
+			desc: ["Axios 라이브러리를 활용해 데이터를 입력하였습니다.", "이중 map 메소드를 사용하여 서브메뉴를 구현하였습니다."],
+			siteLink: "https://sh-open-10.vercel.app/",
+			gitLink: "https://github.com/JoSungHyeon/openSource"
 		},
 		{
-			title: "Name2",
+			title: "Banner",
 			skill: [
 				"HTML",
 				"CSS",
 				"JavaScript",
-				"React"
+				"React",
+				"Swiper"
 			],
-			desc: "2Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nobis error ipsa aliquid optio dolor mollitia, autem incidunt quisquam, ipsum qui alias magnam architecto facere minus itaque labore molestias nihil aspernatur.",
-			siteLink: "https://www.naver.com",
-			gitLink: ""
+			desc: ["Swiper 라이브러리를 활용해 슬라이드를 구현하였습니다.", "Swiper 라이브러리가 제공하는 기능을 활용해 페이지의 번호를 개발하였습니다."],
+			siteLink: "https://sh-open-11.vercel.app/",
+			gitLink: "https://github.com/JoSungHyeon/openSource"
 		}
 	],
 	contact: [

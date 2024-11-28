@@ -63,11 +63,17 @@ function SourceWrapper(props) {
 									}
 								</div>
 								<div className="source_desc">
-									<p>{d.desc}</p>
+									<ul>
+										{
+											d.desc.map((desc, j) =>
+												<li>{desc}</li>
+											)
+										}
+									</ul>
 								</div>
 								<div className="source_btn">
-									<a href={d.link} className='site'>SITE</a>
-									<a href={d.link} className='git'>GIT</a>
+									<a href={d.siteLink} target="portfolio" className='site'>SITE</a>
+									<a href={d.gitLink} target="portfolio" className='git'>GIT</a>
 								</div>
 							</div>
 				  		</SwiperSlide>
