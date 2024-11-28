@@ -4,6 +4,7 @@ import gsap from 'gsap';
 import { ScrollToPlugin } from 'gsap/ScrollToPlugin';
 import Lenis from '@studio-freight/lenis';
 
+import Header from '../components/Header';
 import Start from '../components/Start';
 import Main from '../components/Main';
 import Skill from '../components/Skill';
@@ -34,7 +35,8 @@ function Home() {
 	});
 	
   	return (
-  	  	<div id='home'>
+  	  	<div id='home'> {/* 헤더 컴포넌트 빼기 */}
+			<Header />
 			<Start /> 
 			<Main />
 			<Skill />

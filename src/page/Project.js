@@ -4,6 +4,8 @@ import gsap from 'gsap';
 import { ScrollToPlugin } from 'gsap/ScrollToPlugin';
 import Lenis from '@studio-freight/lenis';
 
+
+import ProjectHeader from '../components/ProjectHeader';
 import ProjectStart from '../components/ProjectStart';
 import ProjectWork from '../components/ProjectWork';
 import ProjecCodepen from '../components/ProjectCodepen';
@@ -41,6 +43,7 @@ function Project() {
 
   	return (
   	  	<div id='project'>
+			<ProjectHeader />
 			<ProjectStart />
 			<ProjectWork />
 			<ProjecCodepen />
