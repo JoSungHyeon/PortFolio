@@ -63,7 +63,7 @@ function ProtWrap(props) {
 							</div>
 							<div className="port_btn">
 								<a href={d.siteLink} className="view" target='portfolio'>View Site</a>
-								<a href={d.codeLink} className="code">CODE VIEW</a>
+								<a href={d.codeLink} className="code" target='portfolio'>CODE VIEW</a>
 							</div>
 						</div>
 					</div>
