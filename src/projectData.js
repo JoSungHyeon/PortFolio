@@ -91,7 +91,7 @@ const projectData = {
 			gitLink: "https://github.com/JoSungHyeon/openSource"
 		},
 		{
-			title: "Loading",
+			title: "fetch, useState",
 			skill: [
 				"HTML",
 				"CSS",
@@ -104,7 +104,7 @@ const projectData = {
 			gitLink: "https://github.com/JoSungHyeon/openSource"
 		},
 		{
-			title: "Mobile GNB",
+			title: "props, resize",
 			skill: [
 				"HTML",
 				"CSS",
@@ -117,7 +117,7 @@ const projectData = {
 			gitLink: "https://github.com/JoSungHyeon/openSource"
 		},
 		{
-			title: "Item List",
+			title: "useState, map",
 			skill: [
 				"HTML",
 				"CSS",
@@ -130,7 +130,7 @@ const projectData = {
 			gitLink: "https://github.com/JoSungHyeon/openSource"
 		},
 		{
-			title: "Image Slide",
+			title: "Swiper, pagination",
 			skill: [
 				"HTML",
 				"CSS",
@@ -143,7 +143,7 @@ const projectData = {
 			gitLink: "https://github.com/JoSungHyeon/openSource"
 		},
 		{
-			title: "Video Player",
+			title: "Video, GSAP",
 			skill: [
 				"HTML",
 				"CSS",
@@ -156,7 +156,7 @@ const projectData = {
 			gitLink: "https://github.com/JoSungHyeon/openSource"
 		},
 		{
-			title: "Multi Video",
+			title: "Video, map",
 			skill: [
 				"HTML",
 				"CSS",
@@ -169,7 +169,7 @@ const projectData = {
 			gitLink: "https://github.com/JoSungHyeon/openSource"
 		},
 		{
-			title: "GNB (Multi)",
+			title: "fetch, map",
 			skill: [
 				"HTML",
 				"CSS",
@@ -182,7 +182,7 @@ const projectData = {
 			gitLink: "https://github.com/JoSungHyeon/openSource"
 		},
 		{
-			title: "GNB (Single)",
+			title: "Axios, map",
 			skill: [
 				"HTML",
 				"CSS",
@@ -195,7 +195,7 @@ const projectData = {
 			gitLink: "https://github.com/JoSungHyeon/openSource"
 		},
 		{
-			title: "Banner",
+			title: "Swiper, React",
 			skill: [
 				"HTML",
 				"CSS",
