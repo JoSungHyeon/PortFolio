@@ -6,8 +6,9 @@
 ***
 [PORTFOLIO](https://sh-port-folio.vercel.app/project)
 ***
-### 👋 Intro
-***
+### 👋 INTRO
+
+
 > 안녕하세요!
 
 
@@ -19,7 +20,7 @@
 
 > 새로운 기술을 습득하는 것을 좋아하는 프론트엔드 개발자 조성현입니다.
 ***
-### 🛠 Tech Stack
+### 🛠 TECH STACK
 - WEB
   
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=fff"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=fff"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=111"> <img src="https://img.shields.io/badge/ES6-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=111"> <img src="https://img.shields.io/badge/GSAP-111?style=for-the-badge"> <img src="https://img.shields.io/badge/Swiper-6332F6?style=for-the-badge&logo=Swiper&logoColor=fff">
@@ -40,10 +41,8 @@
 
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=fff"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=fff">
 ***
-***
-### 📝 Projects
-***
-#### 1. Emotion Diary
+### 💻 PROJECT
+#### ⌨️ Emotion Diary
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=fff"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=fff"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=111"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=111"> <img src="https://img.shields.io/badge/Router-CA4245?style=for-the-badge&logo=React Router&logoColor=fff"> <img src="https://img.shields.io/badge/useContext-61DAFB?style=for-the-badge&logo=React&logoColor=111"> <img src="https://img.shields.io/badge/customhook-61DAFB?style=for-the-badge&logo=React&logoColor=111"> <img src="https://img.shields.io/badge/LocalStorage-AECBFA?style=for-the-badge&logo=googlecloudstorage&logoColor=111"> <img src="https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=VITE&logoColor=fff">
 
@@ -55,7 +54,7 @@ VIEW SITE : [https://sh-emotion-diary.vercel.app/](https://sh-emotion-diary.verc
 
 GITHUB : [https://github.com/JoSungHyeon/React-V-Emotion-Diary](https://github.com/JoSungHyeon/React-V-Emotion-Diary)
 ***
-#### 2. Board Shop
+#### ⌨️ Board Shop
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=fff"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=fff"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=111"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=111"> <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=fff"> <img src="https://img.shields.io/badge/Router-CA4245?style=for-the-badge&logo=React Router&logoColor=fff"> <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=Axios&logoColor=fff"> <img src="https://img.shields.io/badge/LocalStorage-AECBFA?style=for-the-badge&logo=googlecloudstorage&logoColor=111"> <img src="https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=VITE&logoColor=fff">
 
@@ -67,7 +66,7 @@ VIEW SITE : [https://sh-board-shop.vercel.app/](https://sh-board-shop.vercel.app
 
 GITHUB : [https://github.com/JoSungHyeon/React-Vite-Shop](https://github.com/JoSungHyeon/React-Vite-Shop)
 ***
-#### 3. ClassBox
+#### ⌨️ ClassBox
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=fff"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=fff"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=111"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=111"> <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=Axios&logoColor=fff"> <img src="https://img.shields.io/badge/Swiper-6332F6?style=for-the-badge&logo=Swiper&logoColor=fff">
 
@@ -79,7 +78,7 @@ VIEW SITE : [https://sh-classbox.vercel.app/](https://sh-classbox.vercel.app/)
 
 GITHUB : [https://github.com/JoSungHyeon/classbox](https://github.com/JoSungHyeon/classbox)
 ***
-#### 3. O'Kichen
+#### ⌨️ O'Kichen
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=fff"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=fff"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=111"> <img src="https://img.shields.io/badge/Swiper-6332F6?style=for-the-badge&logo=Swiper&logoColor=fff"> <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=PWA&logoColor=fff">
 
@@ -90,6 +89,70 @@ VIEW SITE : [https://josunghyeon.github.io/o-kichen-pwa/](https://josunghyeon.gi
 
 
 GITHUB : [https://github.com/JoSungHyeon/o-kichen-pwa](https://github.com/JoSungHyeon/o-kichen-pwa)
+***
+### 📜 OPEN SOURCE
+
+[GITHUB](https://github.com/JoSungHyeon/openSource)
+
+### Table
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=fff"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=fff"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=111"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=111">
+
+VIEW SITE : [https://sh-open-1.vercel.app/](https://sh-open-1.vercel.app/)
+
+### fetch, useState
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=fff"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=fff"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=111"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=111">
+
+VIEW SITE : [https://sh-open-2.vercel.app/](https://sh-open-2.vercel.app/)
+
+### props, resize
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=fff"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=fff"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=111"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=111">
+
+VIEW SITE : [https://sh-open-3.vercel.app/](https://sh-open-3.vercel.app/)
+
+### useState, map
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=fff"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=fff"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=111"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=111">
+
+VIEW SITE : [https://sh-open-4.vercel.app/](https://sh-open-4.vercel.app/)
+
+### Swiper, pagination
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=fff"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=fff"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=111"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=111"> <img src="https://img.shields.io/badge/Swiper-6332F6?style=for-the-badge&logo=Swiper&logoColor=fff">
+
+VIEW SITE : [https://sh-open-5.vercel.app/](https://sh-open-5.vercel.app/)
+
+### Video, GSAP
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=fff"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=fff"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=111"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=111"> <img src="https://img.shields.io/badge/GSAP-111?style=for-the-badge">
+
+VIEW SITE : [https://sh-open-6.vercel.app/](https://sh-open-6.vercel.app/)
+
+### Video, map
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=fff"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=fff"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=111"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=111">
+
+VIEW SITE : [https://sh-open-7.vercel.app/](https://sh-open-7.vercel.app/)
+
+### fetch, map
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=fff"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=fff"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=111"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=111">
+
+VIEW SITE : [https://sh-open-9.vercel.app/](https://sh-open-9.vercel.app/)
+
+### Axios, map
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=fff"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=fff"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=111"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=111"> <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=Axios&logoColor=fff">
+
+VIEW SITE : [https://sh-open-10.vercel.app/](https://sh-open-10.vercel.app/)
+
+### Swiper, React
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=fff"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=fff"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=111"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=111"> <img src="https://img.shields.io/badge/Swiper-6332F6?style=for-the-badge&logo=Swiper&logoColor=fff">
+
+VIEW SITE : [https://sh-open-11.vercel.app/](https://sh-open-11.vercel.app/)
 ***
 ### 3. 결과 및 성과
 
