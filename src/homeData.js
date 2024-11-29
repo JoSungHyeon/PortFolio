@@ -69,7 +69,7 @@ const homeData = {
 		},
 		{
 			num: "04",
-			title: "Build & Hosting2",
+			title: "Build & Hosting",
 			skills: [
 				"vite",
 				"vercel",
