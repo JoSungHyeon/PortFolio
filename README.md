@@ -3,6 +3,8 @@
 ![2024-11-28 17 01 15](https://github.com/user-attachments/assets/8dea3a5e-15f6-4483-9ec6-6d1412955384)
 ***
 ## 📜 조성현 포트폴리오
+
+사용자 중심의 인터페이스와 효율적인 코드 작성에 집중하는 프론트엔드 개발자입니다.
 ***
 [PORTFOLIO](https://sh-port-folio.vercel.app/project)
 ***
