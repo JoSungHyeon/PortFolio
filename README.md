@@ -4,37 +4,12 @@
 
 ```
 목차
-
-  1. 컴포넌트
-
   2. 기술 스택
 
   3. 결과 및 성과
 
   4. 문제점 및 개선점
 ```
-***
-### 1. 컴포넌트
-- page : Home, Project
-
-  
-- Home page
-  - Header.js
-  - Start.js
-  - Main.js
-  - Skill.js
-  - Work.js
-  - Contact.js
-
-
-- Project page
-  - ProjectHeader.js
-  - ProjectStart.js
-  - ProjectWork.js
-  - ProjectCodePen.js
-  - ProjectContact.js
- 
-
 ***
 ### 2. 기술 스택
 
