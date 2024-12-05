@@ -23,10 +23,10 @@ function SourceWrapper(props) {
 	return (
 		<div className="source_wrapper">
 			<Swiper
-				// autoplay={{
-				// 	delay: 2000
-				// }}
-				speed={1000}
+				autoplay={{
+					delay: 500
+				}}
+				speed={2000}
 				slidesPerView={1}
 				loop={true}
 				spaceBetween={70}
