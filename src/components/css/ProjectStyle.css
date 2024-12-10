@@ -656,6 +656,10 @@
 		width: 100%;
 	}
 
+	#project #contact .section_inner .title h2 {
+		text-align: center;
+	}
+
 	#project #contact .section_inner .contact_wrap {
 		width: 100%;
 	}
